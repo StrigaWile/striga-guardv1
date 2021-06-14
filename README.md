@@ -1,1 +1,1 @@
-# striga-guardv1
+# Striga Guard 
